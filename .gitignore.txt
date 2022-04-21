@@ -1,0 +1,8 @@
+#ignore test
+#주석처리
+
+# ignore 되는지 테스트
+ignoretest.txt
+
+#ignore 사용법 참고
+#https://growingarchive.tistory.com/244
